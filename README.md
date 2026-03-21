@@ -17,8 +17,8 @@ intervention reduces within-model drift by 62%.
 | `dpo_pipeline_final.py` | Complete DPO fine-tuning pipeline (Google Colab, T4 GPU) |
 | `anti_sycophancy_dataset.jsonl` | 44-example preference dataset (chosen/rejected pairs) |
 | `experiment4_summary.json` | Full numerical results for Experiment 4 |
-| `figures/` | All paper figures in PNG format |
-| `dataset/` | HuggingFace dataset format files |
+| `figures/figures` | All paper figures in PNG format |
+| `dataset/dataset` | HuggingFace dataset format files |
 
 ## Key Results
 
