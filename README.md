@@ -44,7 +44,7 @@ pip install groq datasets transformers trl peft accelerate bitsandbytes
 
 **Generate dataset:**
 ```bash
-export GROQ_API_KEY="TOKEN"
+export GROQ_API_KEY="YOUR_TOKEN"
 python generate_dataset_groq.py
 ```
 
