@@ -1,0 +1,36 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "chosen": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "rejected": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "scenario_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "scenario_label": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "drift_pattern": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "notes": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
