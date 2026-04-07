@@ -1,7 +1,6 @@
 # Sycophancy as a Pathogen: LLM Behavioral Drift and Delusion Reinforcement
 
 **Author:** Baktiyar Ablaikhan  
-**Contact:** neweraprojecta@gmail.com
 
 ## Abstract
 This study investigates sycophantic behavioral drift in LLMs and its 
